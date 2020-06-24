@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employee gender="male" id="12">
+    <address>OAR</address>
+    <name>Kumar</name>
+    <salary>5000</salary>
+</Employee>

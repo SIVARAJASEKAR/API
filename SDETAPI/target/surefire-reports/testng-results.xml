@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="18580" started-at="2020-06-24T05:34:53Z" finished-at="2020-06-24T05:35:12Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="18580" started-at="2020-06-24T05:34:53Z" finished-at="2020-06-24T05:35:12Z">
+      <class name="com.api.testscripts.FetchAllPostsTest">
+        <test-method status="PASS" signature="checkFetchAllPosts()[pri:0, instance:com.api.testscripts.FetchAllPostsTest@79698539]" name="checkFetchAllPosts" duration-ms="677" started-at="2020-06-24T11:05:10Z" finished-at="2020-06-24T11:05:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFetchAllPosts -->
+      </class> <!-- com.api.testscripts.FetchAllPostsTest -->
+      <class name="com.api.testscripts.UpdatePartiallyTest">
+        <test-method status="PASS" signature="checkPartiaUpdate()[pri:0, instance:com.api.testscripts.UpdatePartiallyTest@566776ad]" name="checkPartiaUpdate" duration-ms="1041" started-at="2020-06-24T11:05:11Z" finished-at="2020-06-24T11:05:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPartiaUpdate -->
+      </class> <!-- com.api.testscripts.UpdatePartiallyTest -->
+      <class name="com.api.testscripts.CreateNewResourceTest">
+        <test-method status="PASS" signature="checkCreateNewResource()[pri:0, instance:com.api.testscripts.CreateNewResourceTest@73f792cf]" name="checkCreateNewResource" duration-ms="11113" started-at="2020-06-24T11:04:53Z" finished-at="2020-06-24T11:05:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCreateNewResource -->
+      </class> <!-- com.api.testscripts.CreateNewResourceTest -->
+      <class name="com.api.testscripts.FetchAllCountryTest">
+        <test-method status="PASS" signature="checkAllCountries()[pri:0, instance:com.api.testscripts.FetchAllCountryTest@6b2fad11]" name="checkAllCountries" duration-ms="5688" started-at="2020-06-24T11:05:04Z" finished-at="2020-06-24T11:05:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAllCountries -->
+      </class> <!-- com.api.testscripts.FetchAllCountryTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
