@@ -20,5 +20,7 @@ public class AddBulkDataByFW extends BaseClass{
 		rutil.validateContentType(resp);
 		
 		resp.then().log().all();
+		
+		System.out.println("Test Pass");
 	}
 }
